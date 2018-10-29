@@ -1,0 +1,2 @@
+service: ocr-api
+runtime: python37
